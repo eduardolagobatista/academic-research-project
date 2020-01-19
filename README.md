@@ -1,4 +1,4 @@
-# academic-research-project
+# Academic Research Project
 Codings and paper generated for the thesis submission at the University of São Paulo, on december/2019
 
 The pdf file is the academic article created as thesis for the graduation on Aeronautical Engineering at the University of São Paulo on December/2019. It contains the necessary bibliography revision for the development, as well as the detailed description of the steps followed to create the codes.
